@@ -9,7 +9,7 @@ The analysis follows a real-world data analytics workflow, including data cleani
 <img width="854" height="552" alt="distribution_curr_stock" src="https://github.com/user-attachments/assets/97b6406d-0d63-459c-903c-c2842feaa895" />
 <img width="854" height="601" alt="reorder_risk_warehouse" src="https://github.com/user-attachments/assets/e79cd889-81ac-4504-9eda-34950c6837b7" />
 <img width="880" height="601" alt="total_current_stock_warehouses" src="https://github.com/user-attachments/assets/b30e988d-7049-4bf9-a4ae-57104356bd3c" />
-
+<img width="989" height="590" alt="top10_replenishment_products" src="https://github.com/user-attachments/assets/afa37234-42da-43fc-96ac-eba43016d158" />
 
 ---
 
